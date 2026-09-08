@@ -56,13 +56,3 @@ This repository implements a complete data analysis lifecycle. The workflow focu
 * **Python**: Core logic and script execution.
 * **Pandas & NumPy**: Data manipulation, cleaning, and mathematical aggregations.
 * **Matplotlib & Seaborn**: Exploratory data visualization and plotting.
-
----
-
-## 💻 Quick Start Guide
-
-To run this analysis locally on your machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/loan-data-analysis.git](https://github.com/your-username/loan-data-analysis.git)
